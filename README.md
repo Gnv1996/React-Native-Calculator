@@ -1,2 +1,2 @@
-# React-Native-Calculator
-React-Native Calculator create with the help of React Native and Styling is completed in this project
+# Calculator_React_Native
+Create Calculator that perform various operation like Add, Subtract, Multiply, Divide and Clear by The Using of React Native
